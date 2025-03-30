@@ -1,9 +1,9 @@
-# CL-DRW
-
+<div align="center">
+<h1>CL-DRW: Curriculum-Learning-Based Deep Robust Watermarking for Social Networks</h1>
+</div>
 
 Yingshuai Zhao, Guopu Zhu, Jiantao Zhou, Xiaolong Li, Hongli Zhang, and Xingpeng Zhang 
 
-> This is the source code of paper CL-DRW: Curriculum-Learning-Based Deep Robust
-Watermarking for Social Networks.
+## Introduction
 
-Code will comming soon.
+This repository contains the official PyTorch implementation for the paper titled "CL-DRW: Curriculum-Learning-Based Deep Robust Watermarking for Social Networks".
